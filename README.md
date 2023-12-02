@@ -3,7 +3,7 @@ A Secure Software application for Payment Gateway.
 
 This repository contains the Security assessment of open-source software for 5565-Secure-Software-Systems
 
-This project was completed by the Group -26
+This Security assessment was completed by the Group -26
  
 - Mohammad Khaja Moinuddin
 - Tejo Verma Sangaraju
