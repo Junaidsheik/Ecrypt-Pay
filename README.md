@@ -15,3 +15,4 @@ Department of Computer Science
 University of North Texas
 Denton, Texas, United States of America
 
+Please check out this detailed video on YouTube: https://youtu.be/I3VUqwBRhBg
